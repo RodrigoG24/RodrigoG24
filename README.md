@@ -1,4 +1,4 @@
-# Hola, que tal! Soy Rodrigo, Programador en Crecimiento.👋 
+# Hola, que tal! Soy Rodrigo.👋 
 
 ## Soy un Estudiante, Programador, Desarrollador en proceso!!
 
