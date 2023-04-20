@@ -3,7 +3,7 @@
 ## Soy un Estudiante, Programador, Desarrollador en proceso!!
 
 - 🌱 Actualmente me encuentro aprendiendo Front-end
-- 🥅 Metas del 2022: Continuar el aprendizaje!
+- 🥅 Metas del 2023: Continuar el aprendizaje!
 
 ### Lenguajes y Herramientas que utilizo:
 
