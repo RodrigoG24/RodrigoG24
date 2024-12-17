@@ -57,7 +57,7 @@ Exploro constantemente **oportunidades de automatización e innovación** para o
 ### 📂 **Proyectos Destacados**
 - **Rapi Bidon** 🚀  
    Sistema de gestión de productos de limpieza con funcionalidades ABM y conexión a base de datos en la nube.  
-   - Tecnologías: **Node.js**, **MongoDB**, **HTML/CSS/JavaScript**  
+   - Tecnologías: **Node.js**, **Express.js**, **MongoDB**, **HTML/CSS/JavaScript**  
 
 - **Pentaho ETL para Datos de Aportes**  
    Transformación y limpieza de datos con **Pentaho Spoon** para generación de archivos filtrados y optimizados.  
@@ -80,7 +80,7 @@ Me apasiona la **resolución de problemas complejos** y el desarrollo de solucio
 - Aficionado a la lluvia, las tormentas y los cielos estrellados 🌌.    
 - Inspirado por el lema **"Vires Acquirit Eundo"**: La fuerza se adquiere avanzando 🐉.  
 - Fanático de **Bring Me The Horizon** y amante de la música 🎶.
-- Realizo trabajos en Impresion 3D y Electronica Básica
+- Realizo trabajos en **Impresion 3D** y **Electrónica Básica**
 
 ---
 
