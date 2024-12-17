@@ -58,7 +58,6 @@ Exploro constantemente **oportunidades de automatización e innovación** para o
 - **Rapi Bidon** 🚀  
    Sistema de gestión de productos de limpieza con funcionalidades ABM y conexión a base de datos en la nube.  
    - Tecnologías: **Node.js**, **MongoDB**, **HTML/CSS/JavaScript**  
-   - [Repositorio aquí](https://github.com/tu-usuario/rapi-bidon)
 
 - **Pentaho ETL para Datos de Aportes**  
    Transformación y limpieza de datos con **Pentaho Spoon** para generación de archivos filtrados y optimizados.  
