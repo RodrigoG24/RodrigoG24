@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Rodrigo! 👋</h1>
-<h3 align="center">Analista en Sistemas | IT Professional | Entusiasta de la Innovación Tecnológica</h3>
+<h3 align="center">Analista en Sistemas | Informático  | Entusiasta de la Innovación Tecnológica</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/RodrigoG24/RodrigoG24/refs/heads/main/RG%20logo%20Dragon.webp" alt="Mi Logo" width="200px">
 </p>
