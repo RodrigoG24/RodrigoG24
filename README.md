@@ -79,7 +79,8 @@ Me apasiona la **resolución de problemas complejos** y el desarrollo de solucio
 ### ⚡ **Datos Curiosos**
 - Aficionado a la lluvia, las tormentas y los cielos estrellados 🌌.    
 - Inspirado por el lema **"Vires Acquirit Eundo"**: La fuerza se adquiere avanzando 🐉.  
-- Fanático de **Bring Me The Horizon** y amante de la música 🎶.  
+- Fanático de **Bring Me The Horizon** y amante de la música 🎶.
+- Realizo trabajos en Impresion 3D y Electronica Básica
 
 ---
 
