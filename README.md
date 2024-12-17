@@ -7,7 +7,15 @@
 ---
 
 ### 🌟 **Sobre Mí**
-Soy un apasionado profesional del área **IT**, con formación en **Análisis de Sistemas** y experiencia en desarrollo web, gestión de datos y automatización de procesos. Actualmente trabajo en el sector de Sistemas IT de una compañia de  **salud prepaga**, colaborando en la migración de sistemas antiguos a soluciones modernas, obtencion de reportes y manejo de datos  y también explorando oportunidades de automatización.
+Soy un apasionado profesional del área **IT**, con formación en **Análisis de Sistemas** y experiencia en desarrollo web, gestión de datos y automatización de procesos. Actualmente me desempeño en el área de **Sistemas IT** de una compañía de **salud prepaga**, donde participo en:
+
+- Migración de sistemas antiguos a **soluciones modernas**.  
+- Generación de **reportes** y manejo eficiente de **datos**.  
+- Soporte técnico integral para usuarios y sistemas (hardware y software).  
+- Desarrollo de aplicaciones internas y herramientas automatizadas.  
+- Tareas de **infraestructura** y administración de **redes**.
+
+Exploro constantemente **oportunidades de automatización e innovación** para optimizar procesos y mejorar la eficiencia en el área.
 
 ---
 
